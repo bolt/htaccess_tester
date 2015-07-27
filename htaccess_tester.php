@@ -1,3 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Bolt htaccess tester.</title>
+    <link rel="stylesheet" src="//normalize-css.googlecode.com/svn/trunk/normalize.css" />
+    <!--[if IE]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+</head>
+
+<body id="home">
 <?php
 
 #htaccess tester, version 1.0
@@ -26,3 +38,6 @@ if (strpos($_SERVER['REQUEST_URI'], 'htaccess_tester.php') === false) {
 // echo "<p>Below you'll find the specifics of your PHP installation, for debugging purposes.</p>";
 
 // phpinfo();
+?>
+</body>
+</html>
