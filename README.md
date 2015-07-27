@@ -1,2 +1,4 @@
-# htaccess_tester
-A small script to test if your .htaccess file is working as it should. 
+# Bolt htaccess tester
+
+See here for instructions: 
+[https://docs.bolt.cm/howto/making-sure-htaccess-works](http://docs.bolt.cm/howto/making-sure-htaccess-works)
